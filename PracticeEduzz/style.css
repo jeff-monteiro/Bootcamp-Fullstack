@@ -1,0 +1,39 @@
+body {
+  background: #ccc;
+  font-family: Verdana;
+}
+
+#titlePage, .subtitlePage, .contentPost, .contact {
+  color: #505050;
+  text-align: justify;
+}
+
+.subtitlePage {
+  font-size: 25px;
+  font-style: italic;
+  margin: 0;
+  margin-bottom: 15px;
+}
+
+.post {
+  background: #fff;
+  padding: 15px;
+  border-radius: 8px;
+  border: 4px solid #505050;
+  margin-bottom: 20px;
+}
+
+.post-content {
+  margin: 0;
+  margin-bottom: 15px;
+}
+
+.postImage {
+  height: 500px;
+  width: 950px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+}
+
+
+
