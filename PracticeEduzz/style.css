@@ -1,6 +1,8 @@
 body {
   background: #ccc;
   font-family: Verdana;
+  Max-width: 900px;
+  margin: auto;
 }
 
 #titlePage, .subtitlePage, .contentPost, .contact {
@@ -29,10 +31,9 @@ body {
 }
 
 .postImage {
-  height: 500px;
-  width: 950px;
   margin-bottom: 15px;
   border-radius: 8px;
+  width: 100%;
 }
 
 .contacts-list {
