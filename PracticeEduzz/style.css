@@ -35,5 +35,10 @@ body {
   border-radius: 8px;
 }
 
+.contacts-list {
+  list-style-type: none;
+  padding-left: 20px;
+}
+
 
 
